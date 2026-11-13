@@ -1,0 +1,5 @@
+Bio-inspired Algorithm
+Particle Swarm Optimization
+Ant Colony Optimization
+Artificial Bee Colony
+Artificial Plant Optimization
