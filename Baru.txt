@@ -3,3 +3,6 @@ Particle Swarm Optimization
 Ant Colony Optimization
 Artificial Bee Colony
 Artificial Plant Optimization
+Bacterial Foraging
+Cuckoo Search
+Firefly Algorithm
